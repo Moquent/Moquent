@@ -15,7 +15,7 @@ I've developed a music bot for Discord by the name [Uzox](http://uzox.tech/) whi
 
   <img align="right" alt="GIF" src="https://github.com/Moquent/Moquent/blob/main/coding.gif?raw=true" width="500" height="300" />
 
-The languages I know in breif
+The languages I know
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
