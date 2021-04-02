@@ -8,9 +8,13 @@
 
 <br />
 
-Hello! I'm Moquent an aspiring programmer with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++ and React and have good knowledge about the Linux dist. terminal.
+Hello! I'm Moquent an aspiring 15 year old programmer with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++ and React and have good knowledge about the Linux distro terminals.
+
+I've developed a music bot for Discord by the name [Uzox](http://uzox.tech/) which has features like making personal playlists and playing them.
 
   <img align="right" alt="GIF" src="https://github.com/Moquent/Moquent/blob/main/coding.gif?raw=true" width="500" height="300" />
+
+The languages I know in breif
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
@@ -20,6 +24,22 @@ Hello! I'm Moquent an aspiring programmer with a self taught knowledge about pro
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+
+
+The tools, editors and operating systems I use for my works
+
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
 <!--END_SECTION:waka-->
