@@ -10,7 +10,7 @@
 
 Hello! I'm Moquent an aspiring programmer with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++ and React and have good knowledge about the Linux dist. terminal.
 
-<img align="right" alt="GIF" src="https://github.com/Moquent/Moquent/blob/master/coding.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Moquent/Moquent/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
