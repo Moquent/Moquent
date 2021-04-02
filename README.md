@@ -41,4 +41,3 @@ The tools, editors and operating systems I use for my works
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
-<!--END_SECTION:waka-->
