@@ -9,7 +9,7 @@
 
 <br />
 
-Hello! I'm Moquent, an aspiring 15 year old boy with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++ and React and have good knowledge about the Linux distro terminals.
+Hello! I'm Moquent, an aspiring 15 year old boi with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++ and React and have good knowledge about the Linux distro terminals.
 
 I've developed a music bot for Discord by the name [Uzox](http://uzox.tech/) which has features like making personal playlists and playing them.
 
