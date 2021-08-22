@@ -14,7 +14,7 @@
 
 Hello! I'm Moquent, an aspiring 15 year old boi with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++, React and have good knowledge about the Linux distro terminals.
 
-I've developed a music bot for Discord by the name [Uzox](http://uzox.tech/) which has features like making personal playlists and playing them.
+I've developed a music bot for Discord, [Uzox](http://uzox.tech/) which has amazing features like making personal playlists, integrating music related platforms like Spotify and Last.fm, with more coming soon.
 
   <img align="right" alt="GIF" src="https://github.com/Moquent/Moquent/blob/main/coding.gif?raw=true" width="500" height="300" />
 
