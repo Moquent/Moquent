@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋</h1>
+<h1 align="center">hey hey! 👋</h1>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Moquent&show_icons=true&theme=gotham" alt="Moquent" />
 
