@@ -7,10 +7,10 @@
 <a href="https://discord.gg/GtNTAr5EWR">
   <img align="center" alt="Contact Moquent" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-  
-  <img align="center" alt="Contact Moquent" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
-  <br />
+<br />
+
+<img align="center" alt="Contact Moquent" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
 Hello! I'm Moquent, an aspiring 15 year old boi with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++, React and have good knowledge about the Linux distro terminals.
 
