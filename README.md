@@ -8,7 +8,7 @@
 <img align="center" alt="Contact Moquent" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
 <div align="center">
-Hello! I'm Moquent, an aspiring 15 year old guy with a self taught knowledge about programming. I mainly implement programming languages like JavaScript, Python-3, Java, C++, React and have good knowledge about the Linux distro terminals.  <br />
+Hello! I'm Moquent, an aspiring 15 year old guy with love for programming and self taught knowledge about it. I mainly implement programming languages like JavaScript, Python-3, Java, C++, React and have good knowledge about the Linux distro terminals.  <br />
 
   <br>
 
