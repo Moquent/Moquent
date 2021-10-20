@@ -1,6 +1,6 @@
 <h1 align="center">hey hey! 👋</h1>
 <p align="center">
-  <a href="https://discord.gg/GtNTAr5EWR">
+  <a href="https://discord.gg/623552jtcz">
   <img align="center" alt="Contact Moquent" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <br />
