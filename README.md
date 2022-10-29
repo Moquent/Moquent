@@ -9,11 +9,11 @@
 <img align="center" alt="Contact Moquent" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
 <div align="center">
-Hello! I'm Moquent, an aspiring 16 year old guy with love for programming and self taught knowledge about it. I mainly implement programming languages like JavaScript, Python-3, Java, C++, React and have good knowledge about the Linux distro terminals.  <br />
+Hello! I'm Moquent, an aspiring 16 year old guy with love for programming and self taught knowledge about it.<br />
 
   <br>
 
-I've developed a music bot for Discord, [Uzox](http://uzox.tech/) which has amazing features like making personal playlists, integrating music related platforms like Spotify and Last.fm, with more coming soon.
+Check out [Uzox](http://uzox.tech/) a Discord music bot which has amazing features like making personal playlists, integrating music related platforms like Spotify and Last.fm, with more coming soon.
 
   </br>
 
@@ -57,5 +57,5 @@ The tools, editors and operating systems I use for my works
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Moquent" alt="Moquent" /> </p>
 <br>
 <!---
-don't use this indexing lmaoo, it's so bad
+this indexing sucks
 -->
