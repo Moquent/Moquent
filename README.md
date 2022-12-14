@@ -13,7 +13,7 @@ Hello! I'm Moquent, an aspiring 16 year old guy with love for programming and se
 
   <br>
 
-Check out [Uzox](http://uzox.tech/) a Discord music bot which has amazing features like making personal playlists, integrating music related platforms like Spotify and Last.fm, with more coming soon.
+Check out [Uzox](http://uzox.xyz/) a Discord music bot which has amazing features like making personal playlists, integrating music related platforms like Spotify and Last.fm, with more coming soon.
 
   </br>
 
