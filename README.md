@@ -9,7 +9,7 @@
 <img align="center" alt="Contact Moquent" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
 <div align="center">
-Hello! I'm Moquent, an aspiring 16 year old guy with love for programming and self taught knowledge about it.<br />
+Hello! I'm Moquent, an aspiring 17 year old dude with love for programming and self taught knowledge about it.<br />
 
   <br>
 
