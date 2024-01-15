@@ -47,15 +47,12 @@ The tools, editors and operating systems I use for my works
 
 <br />
 <br />
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moquent&show_icons=true&theme=gotham" alt="Moquent" />
-  <br />
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moquent&layout=compact&langs_count=8&theme=gotham" alt="Moquent" />
 <br/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Moquent" alt="Moquent" /> </p>
 <br>
+
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moquent&layout=compact&langs_count=8&theme=gotham" alt="Moquent" />
 <!---
 this indexing sucks
 -->
