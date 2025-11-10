@@ -9,7 +9,7 @@
 <img align="center" alt="Contact Moquent" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
 <div align="center">
-Hello! I'm Moquent, an aspiring 18 year old dude with love for programming and self taught knowledge about it.<br />
+Hello! I'm Moquent, an aspiring 19-year-old dude with love for programming and self taught knowledge about it.<br />
 
   <br>
 
@@ -20,7 +20,6 @@ Check out [Uzox](http://uzox.xyz/) a Discord music bot which has amazing feature
 The languages I use
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
