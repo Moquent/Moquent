@@ -37,6 +37,14 @@ I work across distributed systems, cloud infrastructure, real-time data, and dev
   <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,cpp,rust,aws,docker,kubernetes,mongodb,redis,react,nextjs,linux&perline=7" alt="TypeScript, Node.js, Python, Java, C++, Rust, AWS, Docker, Kubernetes, MongoDB, Redis, React, Next.js, and Linux" />
 </p>
 
+## Codex activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage-dark.svg" alt="Moquent's account-wide Codex activity" />
+</picture>
+
 ## GitHub activity
 
 <div align="center">
