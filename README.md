@@ -40,6 +40,12 @@ I work across distributed systems, cloud infrastructure, real-time data, and dev
 ## Codex activity
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-stats.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-stats-dark.svg" alt="Moquent's account-wide Codex usage statistics" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage-dark.svg" alt="Moquent's account-wide Codex activity" />

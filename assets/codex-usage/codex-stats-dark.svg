@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="94" viewBox="0 0 760 94" role="img" aria-labelledby="title desc">
+  <title id="title">Moquent account-wide Codex activity</title>
+  <desc id="desc">Account-wide Codex token totals, peak day, longest chat, and streaks.</desc>
+  <style>
+    text { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace; }
+    .name { fill: #F0F6FC; font-size: 17px; font-weight: 650; letter-spacing: .5px; }
+    .identity { fill: #8B949E; font-size: 11px; }
+    .avatar { fill: #FFFFFF; font-size: 15px; font-weight: 600; }
+    .stat { fill: #F0F6FC; font-size: 14px; font-weight: 650; }
+    .label { fill: #8B949E; font-size: 10px; }
+    .section { fill: #F0F6FC; font-size: 14px; font-weight: 650; }
+    .meta { fill: #6E7681; font-size: 9px; letter-spacing: .4px; }
+    .month { fill: #8B949E; font-size: 9px; }
+    .footer { fill: #8B949E; font-size: 9px; }
+    .footer-value { fill: #F0F6FC; font-size: 11px; }
+  </style>
+  <rect x="1" y="1" width="758" height="92" rx="12" fill="#0D1117" stroke="#30363D" />
+  
+    <rect x="20" y="14" width="720" height="66" rx="10" fill="none" stroke="#30363D" />
+    <path d="M260 27v40" stroke="#30363D" />
+    <path d="M500 27v40" stroke="#30363D" />
+    <text x="140" y="43" class="stat" text-anchor="middle">5.3B</text>
+    <text x="140" y="64" class="label" text-anchor="middle">Lifetime usage</text>
+    <text x="380" y="43" class="stat" text-anchor="middle">976.5M</text>
+    <text x="380" y="64" class="label" text-anchor="middle">Max daily usage</text>
+    <text x="620" y="43" class="stat" text-anchor="middle">5 days</text>
+    <text x="620" y="64" class="label" text-anchor="middle">Current streak</text>
+</svg>
