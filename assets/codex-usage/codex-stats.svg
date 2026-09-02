@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="94" viewBox="0 0 760 94" role="img" aria-labelledby="title desc">
   <title id="title">Moquent account-wide Codex activity</title>
-  <desc id="desc">Account-wide Codex token totals, peak day, longest chat, and streaks.</desc>
+  <desc id="desc">Selected account-wide Codex usage statistics.</desc>
   <style>
     text { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace; }
     .name { fill: #1F2328; font-size: 17px; font-weight: 650; letter-spacing: .5px; }
@@ -19,10 +19,10 @@
     <rect x="20" y="14" width="720" height="66" rx="10" fill="none" stroke="#D0D7DE" />
     <path d="M260 27v40" stroke="#D0D7DE" />
     <path d="M500 27v40" stroke="#D0D7DE" />
-    <text x="140" y="43" class="stat" text-anchor="middle">5.3B</text>
+    <text x="140" y="43" class="stat" text-anchor="middle">7.1B</text>
     <text x="140" y="64" class="label" text-anchor="middle">Lifetime usage</text>
     <text x="380" y="43" class="stat" text-anchor="middle">976.5M</text>
     <text x="380" y="64" class="label" text-anchor="middle">Max daily usage</text>
-    <text x="620" y="43" class="stat" text-anchor="middle">5 days</text>
+    <text x="620" y="43" class="stat" text-anchor="middle">11 days</text>
     <text x="620" y="64" class="label" text-anchor="middle">Current streak</text>
 </svg>
