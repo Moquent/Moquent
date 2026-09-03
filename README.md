@@ -30,9 +30,9 @@ I work across distributed systems, cloud infrastructure, real-time data, and dev
 ## Codex activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&layout=full">
-  <source media="(prefers-color-scheme: light)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=light&layout=full">
-  <img width="100%" src="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&layout=full" alt="Account-wide Codex usage">
+  <source media="(prefers-color-scheme: dark)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&layout=full&identity=show&stats=lifetime,peak,longest-chat,current-streak,longest-streak,active-days">
+  <source media="(prefers-color-scheme: light)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=light&layout=full&identity=show&stats=lifetime,peak,longest-chat,current-streak,longest-streak,active-days">
+  <img width="100%" src="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&layout=full&identity=show&stats=lifetime,peak,longest-chat,current-streak,longest-streak,active-days" alt="Account-wide Codex usage">
 </picture>
 
 ## GitHub activity
