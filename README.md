@@ -1,14 +1,4 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2B,45:0B3B60,100:00B4D8&text=MOQUENT&fontColor=F0F6FC&fontSize=48&fontAlignY=38&animation=fadeIn&desc=SYSTEMS%20%7C%20INFRASTRUCTURE%20%7C%20OPEN%20SOURCE&descAlignY=58&descSize=16" alt="Moquent - systems, infrastructure, and open source" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=00B4D8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Distributed+systems+that+stay+fast+under+load;Real-time+platforms%2C+cloud+infrastructure%2C+and+applied+AI;Open-source+software+built+for+people+who+depend+on+it" alt="Animated engineering focus" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://uzox.xyz/"><img src="https://img.shields.io/badge/Uzox-200K%2B_MAU-00B4D8?style=flat-square&labelColor=071A2B" alt="Uzox - 200K+ monthly active users" /></a>
   <a href="https://github.com/uzox/uzox"><img src="https://img.shields.io/github/stars/uzox/uzox?style=flat-square&logo=github&label=Uzox%20stars&labelColor=071A2B&color=00B4D8" alt="Uzox GitHub stars" /></a>
   <a href="https://github.com/Moquent?tab=followers"><img src="https://img.shields.io/github/followers/Moquent?style=flat-square&logo=github&label=Followers&labelColor=071A2B&color=00B4D8" alt="GitHub followers" /></a>
@@ -40,15 +30,9 @@ I work across distributed systems, cloud infrastructure, real-time data, and dev
 ## Codex activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-stats.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-stats-dark.svg" alt="Moquent's account-wide Codex usage statistics" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Moquent/Moquent/main/assets/codex-usage/codex-usage-dark.svg" alt="Moquent's account-wide Codex activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&layout=full">
+  <source media="(prefers-color-scheme: light)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=light&layout=full">
+  <img width="100%" src="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&layout=full" alt="Account-wide Codex usage">
 </picture>
 
 ## GitHub activity
