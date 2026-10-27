@@ -27,14 +27,6 @@ I work across distributed systems, cloud infrastructure, real-time data, and dev
   <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,cpp,rust,aws,docker,kubernetes,mongodb,redis,react,nextjs,linux&perline=7" alt="TypeScript, Node.js, Python, Java, C++, Rust, AWS, Docker, Kubernetes, MongoDB, Redis, React, Next.js, and Linux" />
 </p>
 
-## Codex activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&amp;layout=profile&amp;identity=show&amp;stats=lifetime%2Cpeak%2Clongest-chat%2Ccurrent-streak%2Clongest-streak%2Cactive-days">
-  <source media="(prefers-color-scheme: light)" srcset="https://aiusage.teje.sh/u/moquent/card.svg?theme=light&amp;layout=profile&amp;identity=show&amp;stats=lifetime%2Cpeak%2Clongest-chat%2Ccurrent-streak%2Clongest-streak%2Cactive-days">
-  <img width="100%" src="https://aiusage.teje.sh/u/moquent/card.svg?theme=dark&amp;layout=profile&amp;identity=show&amp;stats=lifetime%2Cpeak%2Clongest-chat%2Ccurrent-streak%2Clongest-streak%2Cactive-days" alt="Account-wide Codex usage">
-</picture>
-
 ## GitHub activity
 
 <div align="center">
